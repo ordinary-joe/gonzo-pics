@@ -5,7 +5,7 @@
     "title": "Gonzo Pics",
     "tagline": "Photographs by Joe Hoyle",
     "logo_img": "",
-    "bg_img": "images/header-bg.jpg",
+    "bg_img": "/images/img_4146.jpg",
     "has_nav": true,
     "has_social": true
   },
