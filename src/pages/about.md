@@ -10,7 +10,7 @@ template: page
 ---
 **Joe Hoyle** is a Principal Consultant who works for Mavens of London, a digital research, insights and strategy consultancy. He has a Combined Honours Degree in Sociology & Psychology, and a PGDip in Information Science. He has worked as a Librarian, Head of Library Systems, and University Web Manager.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> They say that death kills you, but death doesn't kill you. Boredom and indifference kill you. <cite>Iggy Pop</cite>
 
 Joe has a proven track record in helping brands develop and improve enterprise-level websites. A key achievement was managing the redevelopment of the web presence for London South Bank University - improving ranking on the Sitemorse index of HE and FE sector websites from 179 to No1.
 
