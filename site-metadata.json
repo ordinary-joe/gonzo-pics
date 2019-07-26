@@ -4,7 +4,7 @@
   "header": {
     "title": "Joe's Photographs",
     "tagline": "Minimal and clean blog theme",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/1.jpg",
     "bg_img": "images/header-bg.jpg",
     "has_nav": true,
     "has_social": true
