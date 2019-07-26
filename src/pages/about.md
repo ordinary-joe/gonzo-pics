@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: A brief outline about me and my work
 img_path: /images/img_4146.jpg
 menus:
   main:
@@ -15,5 +15,7 @@ template: page
 Joe has a proven track record in helping brands develop and improve enterprise-level websites. A key achievement was managing the redevelopment of the web presence for London South Bank University - improving ranking on the Sitemorse index of HE and FE sector websites from 179 to No1.
 
 He is Winner of the DCMS Award for the Ingenious and Creative Use of Technology in Public Libraries.
+
+When he's not working, he collects vinyl records, plays guitar in a band, and takes photographs.
 
 _Thank You for reading!_
