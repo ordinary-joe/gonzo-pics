@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: A brief outline about me and my work
+subtitle: A brief outline
 img_path: /images/img_4146.jpg
 menus:
   main:
