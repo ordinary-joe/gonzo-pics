@@ -8,13 +8,12 @@ menus:
     weight: 2
 template: page
 ---
+**Joe Hoyle** is a Principal Consultant who works for Mavens of London, a digital research, insights and strategy consultancy. He has a Combined Honours Degree in Sociology & Psychology, and a PGDip in Information Science. He has worked as a Librarian, Head of Library Systems, and University Web Manager.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Joe has a proven track record in helping brands develop and improve enterprise-level websites. A key achievement was managing the redevelopment of the web presence for London South Bank University - improving ranking on the Sitemorse index of HE and FE sector websites from 179 to No1.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+He is Winner of the DCMS Award for the Ingenious and Creative Use of Technology in Public Libraries.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+_Thank You for reading!_
