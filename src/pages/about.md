@@ -12,7 +12,7 @@ template: page
 
 > They say that death kills you, but death doesn't kill you. Boredom and indifference kill you. <cite>Iggy Pop</cite>
 
-Joe has a proven track record in helping brands develop and improve enterprise-level websites. A key achievement was managing the redevelopment of the web presence for London South Bank University - improving ranking on the Sitemorse index of HE and FE sector websites from 179 to No1.
+Joe has a proven track record in helping organisations develop and improve enterprise-level websites. A key achievement was managing the redevelopment of the web presence for London South Bank University - improving ranking on the Sitemorse index of HE and FE sector websites from 179 to No1.
 
 He is Winner of the DCMS Award for the Ingenious and Creative Use of Technology in Public Libraries.
 
