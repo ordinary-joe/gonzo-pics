@@ -1,10 +1,10 @@
 {
   "title": "Stackbit Fjord Theme",
-  "palette": "blue",
+  "palette": "yellow",
   "header": {
-    "title": "Joe's Photographs",
+    "title": "Photographs by Joe Hoyle",
     "tagline": "Minimal and clean blog theme",
-    "logo_img": "/images/logo.png",
+    "logo_img": "",
     "bg_img": "images/header-bg.jpg",
     "has_nav": true,
     "has_social": true
