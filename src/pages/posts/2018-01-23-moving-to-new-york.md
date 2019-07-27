@@ -1,10 +1,10 @@
 ---
 title: An Old Aston Martin In Paris
-subtitle: A cautionary tale about auto love.
+subtitle: A cautionary tale about auto love
 date: '2018-01-23'
 thumb_img_path: /images/aston-colour-fad511-blend-overlay-25-percent.jpg
 content_img_path: ''
-excerpt: A cautionary tale about auto love
+excerpt: A cautionary tale about auto love.
 template: post
 ---
 ![Aston Martin](/images/aston-colour-fad511-blend-overlay-25-percent.jpg "Aston Martin")
