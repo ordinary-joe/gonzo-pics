@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: A brief outline
+subtitle: This blog is simply a software test.
 img_path: /images/img_04832.jpg
 menus:
   main:
