@@ -1,15 +1,15 @@
 ---
 title: An Old Aston Martin In Paris
-subtitle: A cautionary tale about auto love
+subtitle: A cautionary tale about auto love.
 date: '2018-01-23'
 thumb_img_path: /images/aston-colour-fad511-blend-overlay-25-percent.jpg
 content_img_path: ''
 excerpt: A cautionary tale about auto love
 template: post
 ---
-**The City of New York**, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States. With an estimated 2017 population of 8,622,698 distributed over a land area of about 302.6 square miles (784 km2), New York is also the most densely populated major city in the United States.
+![Aston Martin](/images/aston-colour-fad511-blend-overlay-25-percent.jpg "Aston Martin")
 
-Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Suscipit tellus mauris a diam maecenas sed enim ut. Risus quis varius quam quisque id diam vel. Nulla facilisi etiam dignissim diam quis enim. Sed blandit libero volutpat sed cras ornare. In metus vulputate eu scelerisque felis. Integer enim neque volutpat ac tincidunt vitae semper quis. Morbi quis commodo odio aenean sed adipiscing diam donec. Quis auctor elit sed vulputate mi sit amet mauris commodo. Maecenas sed enim ut sem viverra aliquet. Eget dolor morbi non arcu risus quis varius quam. Risus quis varius quam quisque id diam vel.
+**Tellus id interdum velit** laoreet id donec ultrices tincidunt arcu. Suscipit tellus mauris a diam maecenas sed enim ut. Risus quis varius quam quisque id diam vel. Nulla facilisi etiam dignissim diam quis enim. Sed blandit libero volutpat sed cras ornare. In metus vulputate eu scelerisque felis. Integer enim neque volutpat ac tincidunt vitae semper quis. Morbi quis commodo odio aenean sed adipiscing diam donec. Quis auctor elit sed vulputate mi sit amet mauris commodo. Maecenas sed enim ut sem viverra aliquet. Eget dolor morbi non arcu risus quis varius quam. Risus quis varius quam quisque id diam vel.
 
 > Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc.  - Thierry Henry
 
