@@ -1,5 +1,5 @@
 ---
-title: An Old Aston Martin In Paris
+title: Paris And An Old Aston Martin
 subtitle: A cautionary tale about auto love.
 date: '2018-01-23'
 thumb_img_path: /images/aston-colour-fad511-blend-overlay-25-percent2.jpg
