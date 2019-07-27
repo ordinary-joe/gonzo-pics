@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: A brief outline
-img_path: /images/img_0201.jpg
+img_path: /images/img_0483.jpg
 menus:
   main:
     title: About
